@@ -1,0 +1,111 @@
+@import url("reset.css");
+/* ------- General styles ----------- */
+* {
+    color: pink;
+}
+
+body * {
+    color: black;
+}
+
+/* -------------------------------------- */
+
+
+
+/* -------------------------------------- */
+
+#title.title {
+    color: red;
+}
+
+#title {
+    color: rgb(176, 15, 201);
+}
+
+.title {
+    color: black;
+}
+
+div .title {
+    color: aqua;
+}
+
+body main div .title {
+    color: yellow;
+}
+/* -------------------------------------- */
+
+
+
+/* -------------------------------------- */
+.history__title.section-title {
+    color: red;
+}
+
+h2.section-title {
+    color: green;
+}
+
+.section-title {
+    color: yellow;
+}
+
+h2 {
+    color: black;
+}
+
+/* -------------------------------------- */
+
+
+
+
+/* -------------------------------------- */
+
+.navigation__link {
+    color: black;
+}
+
+[href] {
+    color: green;
+}
+
+ul {
+    color: rgb(205, 18, 205);
+}
+
+
+/* -------------------------------------- */
+
+
+
+/* -------------------------------------- */
+ul li {
+    color: red;
+}
+
+ul>* {
+    color: black;
+}
+
+li+li {
+    color: rgb(255, 181, 71);
+}
+
+/* -------------------------------------- */
+
+
+/* -------------------------------------- */
+.text+.text {
+    color: brown;
+}
+
+
+img~.text {
+    color: blue;
+}
+
+/* -------------------------------------- */
+
+.back-link {
+    color: green;
+}
